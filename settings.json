@@ -1,0 +1,49 @@
+{
+    // Terminal Settings
+    "terminal.integrated.fontFamily": "FiraCode Nerd Font Mono",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "block",
+    "terminal.integrated.scrollback": 10000,
+    "terminal.background": "#000000CC",
+  
+    // Editor Appearance
+    "editor.fontFamily": "'FiraCode Nerd Font Mono', Consolas, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 22,
+    "editor.letterSpacing": 0.5,
+    "editor.fontWeight": "500",
+    "editor.smoothScrolling": true,
+    "editor.minimap.enabled": true,
+    "editor.minimap.size": "fit",
+    "editor.minimap.maxColumn": 120,
+  
+    // File Explorer Settings
+    "explorer.compactFolders": false,
+    "explorer.autoReveal": true,
+  
+    // Theme and Color Customizations
+    "workbench.colorTheme": "One Dark Pro Monokai Darker",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.experimental.settingsProfiles.enabled": true,
+    "workbench.colorCustomizations": {
+      "editor.background": "#000000",
+      "editorLineNumber.foreground": "#424242",
+      "editor.selectionBackground": "#444444",
+      "editorCursor.foreground": "#FFCC00",
+      "activityBar.background": "#000000",
+      "statusBar.background": "#000000",
+      "statusBar.foreground": "#FFFFFF",
+      "sideBar.background": "#121212",
+      "sideBar.foreground": "#FFFFFF",
+      "sideBarSectionHeader.background": "#1E1E1E",
+      "sideBarSectionHeader.foreground": "#FFCC00",
+      "list.activeSelectionBackground": "#444444",
+      "list.activeSelectionForeground": "#FFFFFF",
+      "list.hoverBackground": "#333333",
+      "list.focusBackground": "#555555"
+    },
+  
+    // Miscellaneous Features
+    "breadcrumbs.enabled": true
+  }
